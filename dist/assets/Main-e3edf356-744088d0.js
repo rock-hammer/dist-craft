@@ -1,0 +1,1 @@
+import{d as t,P as n,o,c as r,b as c}from"./index-dbd97f2c.js";const l={},m=["src"],i=t({name:"ImageRender",__name:"Main",props:n({src:{}},l),emits:["update:src"],setup(e,{emit:s}){const a=e;return console.log(s),(p,u)=>(o(),r("div",null,[c("img",{src:a.src,alt:"",srcset:""},null,8,m)]))}});export{i as default};
