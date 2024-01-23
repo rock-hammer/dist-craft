@@ -1,1 +1,0 @@
-import{p as o}from"./props-e47be3ae.js";import{d as t,a2 as a,o as c,c as n}from"./index-b0694976.js";const p=["src"],_=t({name:"CraftImageRender",__name:"Render",props:a({src:{}},o),emits:["update:src"],setup(e,{emit:s}){const r=e;return console.log(s),(m,l)=>(c(),n("img",{src:r.src},null,8,p))}});export{_ as default};

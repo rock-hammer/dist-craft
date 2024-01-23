@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-x3n3nnut.js";import{c as r,a as t,r as c,o as n}from"./index-OWMVJs2S.js";const a={};function s(_,m){const e=c("RouterView");return n(),r("div",null,[t(e)])}const i=o(a,[["render",s]]);export{i as default};
